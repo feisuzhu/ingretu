@@ -33,6 +33,7 @@ if has("gui_running")
     highlight Normal guifg=White   guibg=Black
     highlight Cursor gui=reverse guibg=black guifg=#0aaaaa
     highlight CursorLine guibg=#323300
+    highlight Folded guifg=white guibg=#003332 gui=bold
     highlight Keyword guifg=#FF6600
     highlight Define guifg=#FF6600
     highlight Comment guifg=Gray
